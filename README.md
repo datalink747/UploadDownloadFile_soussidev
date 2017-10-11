@@ -4,6 +4,20 @@ Retrofit 2 Download and Upload File
 [![Ansible Role](https://img.shields.io/badge/Developer-Soussidev-yellow.svg)]()
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 
+# Preview :
+<table>
+<tr align="center">
+<td>
+<p>Fragment Download </p>
+<img src="picture/img_download.png" height="450" width="280">
+</td>
+<td>
+<p>Fragment Upload </p>
+<img src="picture/img_upload.png" height="450" width="280">
+</td>
+</tr>
+</table>   
+
 
 # SDK Required
 + Target sdk:<br>
