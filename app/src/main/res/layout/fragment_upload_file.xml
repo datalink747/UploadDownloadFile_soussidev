@@ -1,0 +1,76 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.soussidev.kotlin.uploaddownloadfile_soussidev.ui.UploadFile">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+
+        android:layout_height="wrap_content">
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/title"
+            android:layout_marginTop="14dp"
+            android:gravity="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="24dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/upload_blank_fragment" />
+
+
+
+
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:text="Select File TO Upload"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_select_file"
+        android:layout_marginTop="14dp"
+        android:textStyle="bold"
+        android:clickable="true"
+        android:elevation="10dp"
+        android:background="@android:color/holo_orange_light"
+        style="@style/Widget.AppCompat.Button.Colored"
+
+         />
+
+        <android.support.v7.widget.AppCompatButton
+            android:text="Upload"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_upload_file"
+            android:layout_marginTop="14dp"
+            android:textStyle="bold"
+            android:clickable="true"
+            android:elevation="10dp"
+            android:background="@android:color/holo_orange_light"
+            style="@style/Widget.AppCompat.Button.Colored"
+
+            />
+
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/file_path"
+            android:layout_marginTop="14dp"
+            android:textColor="@color/colorPrimary"
+            android:textSize="14dp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/upload_blank_fragment" />
+
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+
+
+</FrameLayout>
