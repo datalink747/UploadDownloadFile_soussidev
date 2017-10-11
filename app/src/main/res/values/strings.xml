@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UploadDownloadFile_soussidev</string>
+    <string name="app_name">Retrofit2 Upload Download File</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_download_file">DownloadFile</string>
 
