@@ -26,7 +26,7 @@ Retrofit 2 Download and Upload File
 [![API](https://img.shields.io/badge/API-19%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=19)
 
 # Social Media
-<table border="0">
+<table style="border:0px;">
    <tr>
       <td>
 <a href="https://www.linkedin.com/in/soussimohamed/">
